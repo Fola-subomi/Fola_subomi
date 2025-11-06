@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Precious</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate developer from Nigeria</h3>
 
 - 🔭 I’m currently working on [A couple of ML, DL and Gen ai projectsoj](Available on my github account)
 
